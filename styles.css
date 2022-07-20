@@ -1,0 +1,110 @@
+.navbar{
+  background-color: #90E0EF;
+  /* background-color: #8FD6E1; */
+}
+
+ #nav-name{
+  font-size: 35px;
+  padding-left: 3%;
+  color: #0F0E0E;
+}
+
+#nav-comp{
+  font-size:22px;
+  padding-right: 10px;
+  margin-right: 5%;
+}
+
+/* .body{
+  background-color: #DFF6FF;
+} */
+
+#homepage-div{
+  padding: 5% 10%;
+  background-color: #DFF6FF;
+}
+
+#profile-img{
+  border-radius: 50%;
+  padding: 8% 20%
+}
+
+.card-outer{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.card-icon{
+  padding: 1% 6%;
+}
+
+.card-text{
+  padding: 2% 0%;
+}
+
+#right-des{
+  padding: 3% 5%;
+}
+
+.welcome{
+  font-size: 100px;
+  font-weight: bolder;
+}
+
+#home-btn{
+  padding: 2% 4%;
+  margin: 5% 15% 5% 0%;
+}
+
+
+#features{
+  padding: 5% 25%;
+  position: relative;
+}
+
+.project-row{
+  padding: 5%;
+  margin: 2% 15% 5% 15%;
+  background-color: #DFF6FF;
+}
+
+.projects-head{
+  margin-top: 5%;
+  margin-left: 15%;
+}
+
+.projects-head2{
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+#contact-sec{
+  text-align: left;
+  padding-left: 35%;
+  padding-right: 35%;
+  position: relative;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+#mail-btn{
+  margin-left: 40%;
+  margin-top: 5%;
+}
+
+#cv-btn{
+  padding: 2%;
+  margin-left: 20%;
+}
+
+
+.bottom-container{
+  text-align: center;
+  padding: 2% 0 1% 0;
+  background-color: #90E0EF;
+}
+
+.social-icon{
+  padding:1% 2%;
+}
